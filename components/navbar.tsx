@@ -15,7 +15,7 @@ export function Navbar() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 font-semibold text-lg">
           <ShieldIcon className="size-6 text-accent" />
-          <span className="text-primary">Icon Computers</span>
+          <span className="text-primary">Ri Plus</span>
         </Link>
 
         {/* Desktop Navigation */}

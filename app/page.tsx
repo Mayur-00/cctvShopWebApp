@@ -100,7 +100,7 @@ export default function HomePage() {
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div className="text-center space-y-4 mb-12">
               <h2 className="text-3xl font-bold tracking-tight sm:text-4xl text-balance">
-                Why Choose Icon Computers?
+                Why Choose RI Plus?
               </h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
                 We provide comprehensive security solutions with premium

@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Icon Computers - Professional CCTV & Security Solutions",
+  title: "Ri Plus- Professional CCTV & Security Company",
   description:
     "Premium CCTV cameras, DVR/NVR systems, and security electronics. Professional surveillance equipment for homes and businesses.",
   keywords: ["CCTV cameras", "security systems", "DVR", "NVR", "surveillance", "security electronics", "IP cameras"],

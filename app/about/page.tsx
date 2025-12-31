@@ -1,4 +1,4 @@
-import { CheckCircle2Icon, TrophyIcon, UsersIcon, HeartIcon, MapPinIcon } from "lucide-react"
+import { CheckCircle2Icon, TrophyIcon, UsersIcon, HeartIcon, MapPinIcon, BaggageClaimIcon } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 import { Navbar } from "@/components/navbar"
 import { Footer } from "@/components/footer"
@@ -11,9 +11,9 @@ export default function AboutPage() {
         {/* Hero */}
         <section className="bg-gradient-to-br from-primary to-primary/90 text-primary-foreground py-20">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center animate-in fade-in duration-700">
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl text-balance">About Icon Computers</h1>
+            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl text-balance">About Ri Plus</h1>
             <p className="mt-4 text-lg text-primary-foreground/90 max-w-3xl mx-auto leading-relaxed">
-              Premium CCTV and Security Solutions in Kinwat, Maharashtra.
+              Premium CCTV Cameras and Security Solutions in India.
             </p>
           </div>
         </section>
@@ -24,7 +24,7 @@ export default function AboutPage() {
             <h2 className="text-3xl font-bold tracking-tight mb-6">Our Operations</h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                Icon Computers has been at the forefront of the security revolution in Kinwat. We specialize in
+                Ri Plus has been at the forefront of the security revolution in Maharashtra. We specialize in
                 bringing international standard surveillance technology to local homes and businesses.
               </p>
               <div className="mt-8 p-6 bg-secondary/50 rounded-xl border flex gap-4">
@@ -33,6 +33,14 @@ export default function AboutPage() {
                   <h3 className="font-semibold text-foreground mb-1">Our Main Office</h3>
                   <p>Tipu sultan chokh, Kinwat Rd, Gokunda,</p>
                   <p>kinwat, Maharashtra, india -431804</p>
+                  <p className="mt-2 font-medium text-primary">Call: +91 7066647773</p>
+                </div>
+              </div>
+              <div className="mt-8 p-6 bg-secondary/50 rounded-xl border flex gap-4">
+                <BaggageClaimIcon className="size-6 text-accent shrink-0" />
+                <div>
+                  <h3 className="font-semibold text-foreground mb-1">Want To Become Distributer?</h3>
+                  <p>Call us now</p>
                   <p className="mt-2 font-medium text-primary">Call: +91 7066647773</p>
                 </div>
               </div>
