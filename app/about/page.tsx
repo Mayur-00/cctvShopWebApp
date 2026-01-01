@@ -39,8 +39,8 @@ export default function AboutPage() {
               <div className="mt-8 p-6 bg-secondary/50 rounded-xl border flex gap-4">
                 <BaggageClaimIcon className="size-6 text-accent shrink-0" />
                 <div>
-                  <h3 className="font-semibold text-foreground mb-1">Want To Become Distributer?</h3>
-                  <p>Call us now</p>
+                  <h3 className="font-semibold text-foreground mb-1">आमची डीलरशिप हवी आहे का?</h3>
+                  <p>आत्ताच आमच्याशी संपर्क साधा !</p>
                   <p className="mt-2 font-medium text-primary">Call: +91 7066647773</p>
                 </div>
               </div>
