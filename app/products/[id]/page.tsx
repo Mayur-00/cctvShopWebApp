@@ -353,7 +353,7 @@ export default function ProductDetailPage() {
                     className="flex-1 bg-primary hover:bg-primary/90 py-7 text-lg group transition-all"
                     asChild
                   >
-                    <a href="tel:+919876543210">
+                    <a href="tel:+917066647773">
                       <div className="flex flex-col items-center">
                         <span className="flex items-center gap-2">
                           <PhoneIcon className="size-5 group-hover:animate-bounce" />
